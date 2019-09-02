@@ -1,3 +1,0 @@
-1.- Autentificación, modulo de localizacion, modulo de pagos, modulo de favoritos. historial, modulo de selección de servicios, modulo de contacto.
-2.- 2 aplicativos, uno para el cliente y otro para el conductor. UN APLICATIVO WEB
-3.- api de google maps, extension a Waze
